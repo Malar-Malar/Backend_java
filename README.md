@@ -11,11 +11,11 @@ The goal of this project is to build a bakery shop ecommerce website that allows
 
 **Architecture Diagram**
 
-(https://docs.google.com/document/d/1tHr7UKdfuLp-3iOKDyqBXtgeON_oCFbiXy7aARbYEvM/edit?usp=sharing)
+(https://docs.google.com/document/d/17IiEq4yx4p9z777F5Uh6eunPPAwfkAw5Vz6UmXPoPBo/edit?usp=sharing)
 
 **ER Diagram**
 
-(https://docs.google.com/document/d/1tHr7UKdfuLp-3iOKDyqBXtgeON_oCFbiXy7aARbYEvM/edit?tab=t.n29abuxyo3we)
+(https://docs.google.com/document/d/1PSh15wOctc5rfHkBDuhO6pZn6jAaFAOuvnItKMDb09M/edit?usp=sharing)
 
 ## Tech Stack
 
